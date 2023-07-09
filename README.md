@@ -1,3 +1,3 @@
 # Timer
-Um cronômetro tradicional web 
+Um cronômetro tradicional web,
 feito com HTML, CSS e Javascript
